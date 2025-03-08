@@ -1,6 +1,7 @@
 put these files in the TFR Music Addon folder (program archives > steam > steamapps > workshop > content > 394360 > 3350892196) ------ 
 "radiolatam" folder goes in "music" folder -------- 
-"radio_latam_album_art.dds" and "TFR_album_covers" folder must go in the gfx folder ------- 
+"radio_latam_album_art.dds" folder must go in the gfx folder ------- 
+move the content of "TFR_album_covers" to the folder of the same name in the base addon (DONT MOVE THE FOLDER WITH IT, ONLY WHAT'S IN IT. OTHERWISE YOU'LL OVERWRITE IT AND YOU'LL LOSE THE ALBUM COVERS FOR THE OTHER SONGS) ----- 
 "album_covers.gfx", "music_station_radio_latam.gfx" and "music_station_radio_latam.gui" must go in the "interface" folder ------- 
 "tfr_music_l_english.yml" goes in the localization folder ------ 
 
