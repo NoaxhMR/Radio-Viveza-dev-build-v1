@@ -56,6 +56,15 @@ music = {
 }
 
 music = {
+	song = "annajulia"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "meuerro"
 	chance = {
 		modifier = {
@@ -65,7 +74,7 @@ music = {
 }
 
 music = {
-	song = "acendaofarol"
+	song = "nosvamosinvadirsuapraia"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -83,7 +92,7 @@ music = {
 }
 
 music = {
-	song = "unanubecuelgasobremi"
+	song = "mientele"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -155,7 +164,7 @@ music = {
 }
 
 music = {
-	song = "elbaileyelsalon"
+	song = "eres"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -200,6 +209,15 @@ music = {
 }
 
 music = {
+	song = "fe"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "profugos"
 	chance = {
 		modifier = {
@@ -210,6 +228,15 @@ music = {
 
 music = {
 	song = "enlaciudaddelafuria"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "prejuicios"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -317,7 +344,7 @@ music = {
 }
 
 music = {
-	song = "porquenosevan"
+	song = "estrechezdecorazon"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -398,7 +425,7 @@ music = {
 }
 
 music = {
-	song = "toloachepaminegra"
+	song = "matatetete"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -443,16 +470,7 @@ music = {
 }
 
 music = {
-	song = "vengase"
-	chance = {
-		modifier = {
-			factor = 0.5
-		}		
-	}
-}
-
-music = {
-	song = "vocenaosoubemeamar"
+	song = "camaronesyviniles"
 	chance = {
 		modifier = {
 			factor = 0.5
