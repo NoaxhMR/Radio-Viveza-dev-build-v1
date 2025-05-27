@@ -134,6 +134,12 @@ music = {
 }
 
 music = {
+	name = "noexistes"
+	file = "noexistes.ogg"
+	volume = 0.60
+}
+
+music = {
 	name = "hoy"
 	file = "hoy.ogg"
 	volume = 0.60
@@ -178,6 +184,12 @@ music = {
 music = {
 	name = "mentiras"
 	file = "mentiras.ogg"
+	volume = 0.60
+}
+
+music = {
+	name = "vampiro"
+	file = "vampiro.ogg"
 	volume = 0.60
 }
 

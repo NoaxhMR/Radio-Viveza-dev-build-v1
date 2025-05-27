@@ -317,6 +317,15 @@ music = {
 }
 
 music = {
+	song = "vampiro"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "terapia"
 	chance = {
 		modifier = {
