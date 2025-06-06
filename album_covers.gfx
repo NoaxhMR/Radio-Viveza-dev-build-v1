@@ -1356,6 +1356,11 @@
 			legacy_lazy_load = no
 		}
 		spriteType = {
+			name = "GFX_TFR_lavidamejor"
+			texturefile = "gfx/TFR_album_covers/TFR_lavidamejor.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
 			name = "GFX_TFR_rubiasolmorenaluna"
 			texturefile = "gfx/TFR_album_covers/TFR_rubiasolmorenaluna.png"
 			legacy_lazy_load = no

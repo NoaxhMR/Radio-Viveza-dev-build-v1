@@ -29,6 +29,15 @@ music = {
 }
 
 music = {
+	song = "lavidamejor"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "12ultraviolento"
 	chance = {
 		modifier = {
@@ -228,15 +237,6 @@ music = {
 
 music = {
 	song = "enlaciudaddelafuria"
-	chance = {
-		modifier = {
-			factor = 0.5
-		}		
-	}
-}
-
-music = {
-	song = "noexistes"
 	chance = {
 		modifier = {
 			factor = 0.5
