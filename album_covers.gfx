@@ -985,165 +985,7 @@
 			legacy_lazy_load = no
 		}
 		
-		#Radio Japan
-		
-		spriteType = {
-			name = "GFX_TFR_1999"
-			texturefile = "gfx/TFR_album_covers/TFR_1999.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_4am"
-			texturefile = "gfx/TFR_album_covers/TFR_4am.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_88kasyo"
-			texturefile = "gfx/TFR_album_covers/TFR_88kasyo.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_bakuretsu"
-			texturefile = "gfx/TFR_album_covers/TFR_bakuretsu.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_bluedense"
-			texturefile = "gfx/TFR_album_covers/TFR_bluedense.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_dynamite"
-			texturefile = "gfx/TFR_album_covers/TFR_dynamite.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_flyday"
-			texturefile = "gfx/TFR_album_covers/TFR_flyday.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_goingsteady"
-			texturefile = "gfx/TFR_album_covers/TFR_goingsteady.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_hlc"
-			texturefile = "gfx/TFR_album_covers/TFR_hlc.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_humpback"
-			texturefile = "gfx/TFR_album_covers/TFR_humpback.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_junkymonkey"
-			texturefile = "gfx/TFR_album_covers/TFR_junkymonkey.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_kakumei"
-			texturefile = "gfx/TFR_album_covers/TFR_kakumei.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_korogaruiwa"
-			texturefile = "gfx/TFR_album_covers/TFR_korogaruiwa.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_lucky"
-			texturefile = "gfx/TFR_album_covers/TFR_lucky.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_marathon"
-			texturefile = "gfx/TFR_album_covers/TFR_marathon.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_mayonaka"
-			texturefile = "gfx/TFR_album_covers/TFR_mayonaka.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_numbergirl"
-			texturefile = "gfx/TFR_album_covers/TFR_numbergirl.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_oddloop"
-			texturefile = "gfx/TFR_album_covers/TFR_oddloop.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_oldman"
-			texturefile = "gfx/TFR_album_covers/TFR_oldman.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_piecefuture"
-			texturefile = "gfx/TFR_album_covers/TFR_piecefuture.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_plenty"
-			texturefile = "gfx/TFR_album_covers/TFR_plenty.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_romance"
-			texturefile = "gfx/TFR_album_covers/TFR_romance.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_rustynail"
-			texturefile = "gfx/TFR_album_covers/TFR_rustynail.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_ryukyu"
-			texturefile = "gfx/TFR_album_covers/TFR_ryukyu.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_seinshun"
-			texturefile = "gfx/TFR_album_covers/TFR_seinshun.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_setsuna"
-			texturefile = "gfx/TFR_album_covers/TFR_setsuna.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_shounen"
-			texturefile = "gfx/TFR_album_covers/TFR_shounen.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_soulflowerunion"
-			texturefile = "gfx/TFR_album_covers/TFR_soulflowerunion.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_wandafogeru"
-			texturefile = "gfx/TFR_album_covers/TFR_wandafogeru.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_tetora"
-			texturefile = "gfx/TFR_album_covers/TFR_tetora.png"
-			legacy_lazy_load = no
-		}
-		spriteType = {
-			name = "GFX_TFR_tantan"
-			texturefile = "gfx/TFR_album_covers/TFR_tantan.png"
-			legacy_lazy_load = no
-		}
-		
-				#Radio LATAM
+						#Radio LATAM
 		
 		spriteType = {
 			name = "GFX_TFR_12ultraviolento"
@@ -1261,8 +1103,8 @@
 			legacy_lazy_load = no
 		}
 		spriteType = {
-			name = "GFX_TFR_impacto"
-			texturefile = "gfx/TFR_album_covers/TFR_impacto.png"
+			name = "GFX_TFR_cobarde"
+			texturefile = "gfx/TFR_album_covers/TFR_cobarde.png"
 			legacy_lazy_load = no
 		}
 		spriteType = {
@@ -1428,6 +1270,164 @@
 		spriteType = {
 			name = "GFX_TFR_yendoalacasadedamian"
 			texturefile = "gfx/TFR_album_covers/TFR_yendoalacasadedamian.png"
+			legacy_lazy_load = no
+		}
+		
+		#Radio Japan
+		
+		spriteType = {
+			name = "GFX_TFR_1999"
+			texturefile = "gfx/TFR_album_covers/TFR_1999.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_4am"
+			texturefile = "gfx/TFR_album_covers/TFR_4am.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_88kasyo"
+			texturefile = "gfx/TFR_album_covers/TFR_88kasyo.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_bakuretsu"
+			texturefile = "gfx/TFR_album_covers/TFR_bakuretsu.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_bluedense"
+			texturefile = "gfx/TFR_album_covers/TFR_bluedense.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_dynamite"
+			texturefile = "gfx/TFR_album_covers/TFR_dynamite.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_flyday"
+			texturefile = "gfx/TFR_album_covers/TFR_flyday.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_goingsteady"
+			texturefile = "gfx/TFR_album_covers/TFR_goingsteady.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_hlc"
+			texturefile = "gfx/TFR_album_covers/TFR_hlc.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_humpback"
+			texturefile = "gfx/TFR_album_covers/TFR_humpback.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_junkymonkey"
+			texturefile = "gfx/TFR_album_covers/TFR_junkymonkey.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_kakumei"
+			texturefile = "gfx/TFR_album_covers/TFR_kakumei.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_korogaruiwa"
+			texturefile = "gfx/TFR_album_covers/TFR_korogaruiwa.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_lucky"
+			texturefile = "gfx/TFR_album_covers/TFR_lucky.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_marathon"
+			texturefile = "gfx/TFR_album_covers/TFR_marathon.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_mayonaka"
+			texturefile = "gfx/TFR_album_covers/TFR_mayonaka.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_numbergirl"
+			texturefile = "gfx/TFR_album_covers/TFR_numbergirl.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_oddloop"
+			texturefile = "gfx/TFR_album_covers/TFR_oddloop.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_oldman"
+			texturefile = "gfx/TFR_album_covers/TFR_oldman.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_piecefuture"
+			texturefile = "gfx/TFR_album_covers/TFR_piecefuture.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_plenty"
+			texturefile = "gfx/TFR_album_covers/TFR_plenty.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_romance"
+			texturefile = "gfx/TFR_album_covers/TFR_romance.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_rustynail"
+			texturefile = "gfx/TFR_album_covers/TFR_rustynail.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_ryukyu"
+			texturefile = "gfx/TFR_album_covers/TFR_ryukyu.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_seinshun"
+			texturefile = "gfx/TFR_album_covers/TFR_seinshun.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_setsuna"
+			texturefile = "gfx/TFR_album_covers/TFR_setsuna.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_shounen"
+			texturefile = "gfx/TFR_album_covers/TFR_shounen.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_soulflowerunion"
+			texturefile = "gfx/TFR_album_covers/TFR_soulflowerunion.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_wandafogeru"
+			texturefile = "gfx/TFR_album_covers/TFR_wandafogeru.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_tetora"
+			texturefile = "gfx/TFR_album_covers/TFR_tetora.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_tantan"
+			texturefile = "gfx/TFR_album_covers/TFR_tantan.png"
 			legacy_lazy_load = no
 		}
 		
@@ -1994,6 +1994,71 @@
 		spriteType = {
 			name = "GFX_TFR_elegia" 
 			texturefile = "gfx/TFR_album_covers/TFR_elegia.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_albumalbum"  
+			texturefile = "gfx/TFR_album_covers/TFR_albumalbum.png"     
+			legacy_lazy_load = no
+		} 
+		spriteType = {
+			name = "GFX_TFR_destiny"  
+			texturefile = "gfx/TFR_album_covers/TFR_destiny.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_sebastian"  
+			texturefile = "gfx/TFR_album_covers/TFR_sebastian.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_samarkand"  
+			texturefile = "gfx/TFR_album_covers/TFR_samarkand.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_dancefloorblood"  
+			texturefile = "gfx/TFR_album_covers/TFR_dancefloorblood.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_sergeant"  
+			texturefile = "gfx/TFR_album_covers/TFR_sergeant.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_atlanteans"  
+			texturefile = "gfx/TFR_album_covers/TFR_atlanteans.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_kingsheroes"  
+			texturefile = "gfx/TFR_album_covers/TFR_kingsheroes.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_civilization"  
+			texturefile = "gfx/TFR_album_covers/TFR_civilization.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_justicedance"  
+			texturefile = "gfx/TFR_album_covers/TFR_justicedance.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_youngdan"  
+			texturefile = "gfx/TFR_album_covers/TFR_youngdan.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_allgone"  
+			texturefile = "gfx/TFR_album_covers/TFR_allgone.png"     
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_blacksunglasses"  
+			texturefile = "gfx/TFR_album_covers/TFR_blacksunglasses.png"     
 			legacy_lazy_load = no
 		}
 	}
