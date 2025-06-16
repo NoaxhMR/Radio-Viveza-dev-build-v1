@@ -14,6 +14,12 @@ music = {
 }
 
 music = {
+	name = "lavidamejor"
+	file = "lavidamejor.ogg"
+	volume = 0.65
+}
+
+music = {
 	name = "12ultraviolento"
 	file = "12ultraviolento.ogg"
 	volume = 0.60
@@ -134,15 +140,21 @@ music = {
 }
 
 music = {
+	name = "noexistes"
+	file = "noexistes.ogg"
+	volume = 0.60
+}
+
+music = {
 	name = "hoy"
 	file = "hoy.ogg"
 	volume = 0.60
 }
 
 music = {
-	name = "impacto"
-	file = "impacto.ogg"
-	volume = 0.60
+	name = "cobarde"
+	file = "cobarde.ogg"
+	volume = 0.65
 }
 
 music = {
@@ -182,15 +194,27 @@ music = {
 }
 
 music = {
+	name = "vampiro"
+	file = "vampiro.ogg"
+	volume = 0.60
+}
+
+music = {
 	name = "meuerro"
 	file = "meuerro.ogg"
 	volume = 0.60
 }
 
 music = {
-	name = "mibuenamor"
-	file = "mibuenamor.ogg"
-	volume = 0.60
+	name = "terapia"
+	file = "terapia.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "puchito"
+	file = "puchito.ogg"
+	volume = 0.65
 }
 
 music = {

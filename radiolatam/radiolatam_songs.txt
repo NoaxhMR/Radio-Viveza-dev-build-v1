@@ -2,7 +2,7 @@
 music_station = "radio_latam"
 
 music = {
-	song = "impacto"
+	song = "cobarde"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -21,6 +21,15 @@ music = {
 
 music = {
 	song = "elzar"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "lavidamejor"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -317,7 +326,25 @@ music = {
 }
 
 music = {
-	song = "mibuenamor"
+	song = "vampiro"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "terapia"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "puchito"
 	chance = {
 		modifier = {
 			factor = 0.5
