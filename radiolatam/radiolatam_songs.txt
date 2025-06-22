@@ -191,6 +191,15 @@ music = {
 }
 
 music = {
+	song = "mulherdefases"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "enamoradotuyo"
 	chance = {
 		modifier = {
@@ -353,6 +362,15 @@ music = {
 }
 
 music = {
+	song = "pedazos"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "ohquesera"
 	chance = {
 		modifier = {
@@ -416,7 +434,25 @@ music = {
 }
 
 music = {
+	song = "policia"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
 	song = "rubiasolmorenaluna"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "adiosamor"
 	chance = {
 		modifier = {
 			factor = 0.5
@@ -462,6 +498,24 @@ music = {
 
 music = {
 	song = "tormento"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "pobredeti"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "miedo"
 	chance = {
 		modifier = {
 			factor = 0.5
