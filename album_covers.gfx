@@ -1208,6 +1208,31 @@
 			legacy_lazy_load = no
 		}
 		spriteType = {
+			name = "GFX_TFR_cabecadinossaurio"
+			texturefile = "gfx/TFR_album_covers/TFR_cabecadinossaurio.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_elnerviodelvolcan"
+			texturefile = "gfx/TFR_album_covers/TFR_elnerviodelvolcan.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_mulherdefases"
+			texturefile = "gfx/TFR_album_covers/TFR_mulherdefases.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_pedazos"
+			texturefile = "gfx/TFR_album_covers/TFR_pedazos.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
+			name = "GFX_TFR_tijuanano"
+			texturefile = "gfx/TFR_album_covers/TFR_tijuanano.png"
+			legacy_lazy_load = no
+		}
+		spriteType = {
 			name = "GFX_TFR_shakiraysusamigas"
 			texturefile = "gfx/TFR_album_covers/TFR_shakiraysusamigas.png"
 			legacy_lazy_load = no
