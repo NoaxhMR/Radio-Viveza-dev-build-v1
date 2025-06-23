@@ -154,7 +154,7 @@ music = {
 music = {
 	name = "cobarde"
 	file = "cobarde.ogg"
-	volume = 0.65
+	volume = 0.68
 }
 
 music = {
@@ -196,19 +196,19 @@ music = {
 music = {
 	name = "miedo"
 	file = "miedo.ogg"
-	volume = 0.65
+	volume = 0.80
 }
 
 music = {
 	name = "mulherdefases"
 	file = "mulherdefases.ogg"
-	volume = 0.65
+	volume = 0.75
 }
 
 music = {
 	name = "vampiro"
 	file = "vampiro.ogg"
-	volume = 0.60
+	volume = 0.65
 }
 
 music = {
@@ -220,13 +220,13 @@ music = {
 music = {
 	name = "terapia"
 	file = "terapia.ogg"
-	volume = 0.65
+	volume = 0.80
 }
 
 music = {
 	name = "puchito"
 	file = "puchito.ogg"
-	volume = 0.65
+	volume = 0.80
 }
 
 music = {
@@ -250,13 +250,13 @@ music = {
 music = {
 	name = "pobredeti"
 	file = "pobredeti.ogg"
-	volume = 0.65
+	volume = 0.80
 }
 
 music = {
 	name = "pedazos"
 	file = "pedazos.ogg"
-	volume = 0.65
+	volume = 0.80
 }
 
 music = {
@@ -268,7 +268,7 @@ music = {
 music = {
 	name = "policia"
 	file = "policia.ogg"
-	volume = 0.65
+	volume = 0.85
 }
 
 music = {
